@@ -1,6 +1,8 @@
 # Supabase Auth Slackbot
 Tutorial to get alerts in Slack when new users signup with Supabase Auth
 
+![Example Screenshot](example-slackbot.png)
+
 ## Setup a Slack app
 
 1. Create the Slack app -> https://api.slack.com/apps
